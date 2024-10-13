@@ -1,4 +1,3 @@
+import datetime
 
-print("Hello world!")
-
-
+print(f"Добрий день, Троценкова Анастасія. Зараз: {datetime.datetime.now()}")
