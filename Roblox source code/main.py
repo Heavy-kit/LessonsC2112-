@@ -99,3 +99,5 @@ company.remove_employee(employee1)
 department = Department("IT")
 department.add_employee(employee2)
 department.show_employees()
+
+print("Hello world")
