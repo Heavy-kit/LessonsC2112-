@@ -101,9 +101,3 @@ department.add_employee(employee2)
 department.show_employees()
 
 print("Hello world")
-
-import random
-from random import randint
-
-number = random.randint(1,10)
-print(number)
